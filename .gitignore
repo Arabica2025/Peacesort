@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Generated benchmark results
+algorithm/benchmarks/comparison_results/
+
+# macOS metadata
+.DS_Store
